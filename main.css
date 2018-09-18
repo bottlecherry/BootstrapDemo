@@ -29,3 +29,43 @@
 	white-space:nowrap;
 }
 
+.nav-group{
+	border:1px solid #e8e8e8;
+	min-height:50px;
+}
+
+
+.nav-item{
+	position:relative;
+	border-top:dashed #dedede;
+	margin:0 8px;
+	
+}
+
+.nav-item:first-child{
+	border-top:none;
+}
+
+.item-head{
+	position:absolute;
+	left:11px;
+	top:9px;
+	color:#999;
+}
+
+.item-head h4{
+	font-weight:100;
+	font-size:12px;
+	margin-top:1px;
+}
+.item-body{
+	padding:0 0px 0 112px;
+}
+.item-inner a{
+	float:left;
+	margin:9px 40px 9px 0;
+	height:18px;
+	color:#000;
+	text-decoration:none;
+	
+}
