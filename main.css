@@ -1,0 +1,31 @@
+.product-box{
+	height:330px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.product-brand{
+	color:blue;
+	font-size:1.5em;
+	font-weight:bold;
+}
+.product-price{
+	color:red;
+	font-size:1.2em;
+	font-weight:bold;
+}
+
+.product-modem{
+	color:blue;
+	overflow:hidden;
+	white-space:nowrap;
+}
+
+.product-description{
+	margin-top:5px;
+	margin-bottom:5px;
+	color:blue;
+	overflow:hidden;
+	white-space:nowrap;
+}
+
